@@ -1,0 +1,15 @@
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\123231.csproj.AssemblyReference.cache
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\123231.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\123231.AssemblyInfoInputs.cache
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\123231.AssemblyInfo.cs
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\123231.csproj.CoreCompileInputs.cache
+C:\Users\х0з9ин\Desktop\seminar07\123231\bin\Debug\net6.0\123231.exe
+C:\Users\х0з9ин\Desktop\seminar07\123231\bin\Debug\net6.0\123231.deps.json
+C:\Users\х0з9ин\Desktop\seminar07\123231\bin\Debug\net6.0\123231.runtimeconfig.json
+C:\Users\х0з9ин\Desktop\seminar07\123231\bin\Debug\net6.0\123231.dll
+C:\Users\х0з9ин\Desktop\seminar07\123231\bin\Debug\net6.0\123231.pdb
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\123231.dll
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\refint\123231.dll
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\123231.pdb
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\123231.genruntimeconfig.cache
+C:\Users\х0з9ин\Desktop\seminar07\123231\obj\Debug\net6.0\ref\123231.dll
