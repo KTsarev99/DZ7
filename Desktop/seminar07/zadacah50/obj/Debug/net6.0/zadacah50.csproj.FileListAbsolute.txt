@@ -1,0 +1,15 @@
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\zadacah50.csproj.AssemblyReference.cache
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\zadacah50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\zadacah50.AssemblyInfoInputs.cache
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\zadacah50.AssemblyInfo.cs
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\zadacah50.csproj.CoreCompileInputs.cache
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\bin\Debug\net6.0\zadacah50.exe
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\bin\Debug\net6.0\zadacah50.deps.json
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\bin\Debug\net6.0\zadacah50.runtimeconfig.json
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\bin\Debug\net6.0\zadacah50.dll
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\bin\Debug\net6.0\zadacah50.pdb
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\zadacah50.dll
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\refint\zadacah50.dll
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\zadacah50.pdb
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\zadacah50.genruntimeconfig.cache
+C:\Users\х0з9ин\Desktop\seminar07\zadacah50\obj\Debug\net6.0\ref\zadacah50.dll
